@@ -24,6 +24,10 @@ It contains a Python script with sample health data.
 - Create a remote GitHub repository.
 - Push local changes to GitHub.
 - Use Markdown to document a project.
-
+## Git Workflow
+The basic Git workflow is:
+1. Add changes.
+2. Commit changes.
+3. Push changes to GitHub.
 ## Author
 Milion Samuel
